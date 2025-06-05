@@ -1,13 +1,12 @@
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import ApperIcon from '../components/ApperIcon'
-import MainFeature from '../components/MainFeature'
+// import MainFeature from '../components/MainFeature' // TODO: Create MainFeature component
 import contactService from '../services/api/contactService'
 import activityService from '../services/api/activityService'
 import taskService from '../services/api/taskService'
 import pipelineStageService from '../services/api/pipelineStageService'
 import enrollmentService from '../services/api/enrollmentService'
-
 const Home = () => {
   const [activeSection, setActiveSection] = useState('contacts')
   const [sidebarCollapsed, setSidebarCollapsed] = useState(false)
@@ -229,18 +228,12 @@ const Home = () => {
                 exit={{ opacity: 0, y: -20 }}
                 transition={{ duration: 0.2 }}
                 className="h-full"
+className="h-full"
               >
-                {activeSection === 'contacts' && (
-                  <MainFeature 
-                    contacts={contacts}
-                    activities={activities}
-                    tasks={tasks}
-                    onContactsUpdate={setContacts}
-                    onActivitiesUpdate={setActivities}
-                    onTasksUpdate={setTasks}
-                  />
+                {activeSection === 'contacts' && renderPlaceholder(
+                  "Contact Management",
+                  "Comprehensive contact management system for students, parents, and prospects with detailed profiles and interaction tracking."
                 )}
-                {activeSection === 'pipeline' && renderPlaceholder(
                   "Enrollment Pipeline",
                   "Visual kanban board to track student progress through admission stages with drag-and-drop functionality."
                 )}
