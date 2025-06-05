@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Inquiry",
+    "order": 1,
+    "color": "#3B82F6",
+    "description": "Initial interest expressed by prospective student or parent"
+  },
+  {
+    "id": 2,
+    "name": "Application Started",
+    "order": 2,
+    "color": "#F59E0B",
+    "description": "Application process has begun but not yet completed"
+  },
+  {
+    "id": 3,
+    "name": "Application Submitted",
+    "order": 3,
+    "color": "#8B5CF6",
+    "description": "Complete application received and under review"
+  },
+  {
+    "id": 4,
+    "name": "Accepted",
+    "order": 4,
+    "color": "#10B981",
+    "description": "Student has been accepted and offered admission"
+  },
+  {
+    "id": 5,
+    "name": "Enrolled",
+    "order": 5,
+    "color": "#059669",
+    "description": "Student has confirmed enrollment and completed registration"
+  }
+]

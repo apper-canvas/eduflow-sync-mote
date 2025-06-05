@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "contactId": 1,
+    "type": "Call",
+    "title": "Initial inquiry call",
+    "description": "Discussed program options and admission requirements. Parent very interested in STEM track.",
+    "date": "2024-01-15",
+    "createdBy": "Sarah Adams",
+    "createdAt": "2024-01-15T09:30:00Z"
+  },
+  {
+    "id": 2,
+    "contactId": 1,
+    "type": "Email",
+    "title": "Application materials sent",
+    "description": "Sent complete application packet including forms, requirements checklist, and deadline information.",
+    "date": "2024-01-16",
+    "createdBy": "Sarah Adams",
+    "createdAt": "2024-01-16T14:20:00Z"
+  },
+  {
+    "id": 3,
+    "contactId": 2,
+    "type": "Meeting",
+    "title": "Parent-teacher conference",
+    "description": "Discussed academic progress and extracurricular participation. Student excelling in math and science.",
+    "date": "2024-01-10",
+    "createdBy": "Mike Johnson",
+    "createdAt": "2024-01-10T15:45:00Z"
+  },
+  {
+    "id": 4,
+    "contactId": 3,
+    "type": "Note",
+    "title": "Application status update",
+    "description": "Student submitted partial application. Missing recommendation letters and transcript.",
+    "date": "2024-01-25",
+    "createdBy": "Lisa Chen",
+    "createdAt": "2024-01-25T11:15:00Z"
+  },
+  {
+    "id": 5,
+    "contactId": 3,
+    "type": "Call",
+    "title": "Follow-up on missing documents",
+    "description": "Contacted parent about outstanding application materials. Provided extension until February 5th.",
+    "date": "2024-01-26",
+    "createdBy": "Lisa Chen",
+    "createdAt": "2024-01-26T10:30:00Z"
+  },
+  {
+    "id": 6,
+    "contactId": 4,
+    "type": "Application Review",
+    "title": "Complete application received",
+    "description": "All materials submitted. Strong academic record with 3.8 GPA. Leadership experience in student government.",
+    "date": "2024-01-28",
+    "createdBy": "David Wilson",
+    "createdAt": "2024-01-28T16:00:00Z"
+  },
+  {
+    "id": 7,
+    "contactId": 5,
+    "type": "Meeting",
+    "title": "Academic planning session",
+    "description": "Reviewed course selections for sophomore year. Student interested in advanced placement classes.",
+    "date": "2024-01-05",
+    "createdBy": "Maria Rodriguez",
+    "createdAt": "2024-01-05T13:20:00Z"
+  },
+  {
+    "id": 8,
+    "contactId": 6,
+    "type": "Email",
+    "title": "Acceptance notification sent",
+    "description": "Congratulations email sent with enrollment packet and next steps for fall semester.",
+    "date": "2024-01-30",
+    "createdBy": "Jennifer Smith",
+    "createdAt": "2024-01-30T12:45:00Z"
+  },
+  {
+    "id": 9,
+    "contactId": 8,
+    "type": "Note",
+    "title": "Campus tour scheduled",
+    "description": "Family requested campus visit. Scheduled for February 10th at 2 PM with admissions counselor.",
+    "date": "2024-02-01",
+    "createdBy": "Robert Brown",
+    "createdAt": "2024-02-01T11:30:00Z"
+  },
+  {
+    "id": 10,
+    "contactId": 9,
+    "type": "Meeting",
+    "title": "Graduation planning meeting",
+    "description": "Reviewed credit requirements and college application timeline. Student on track for early graduation.",
+    "date": "2024-01-22",
+    "createdBy": "Amanda Taylor",
+    "createdAt": "2024-01-22T14:15:00Z"
+  },
+  {
+    "id": 11,
+    "contactId": 10,
+    "type": "Call",
+    "title": "Application assistance call",
+    "description": "Helped family navigate online application portal. Addressed questions about financial aid options.",
+    "date": "2024-01-27",
+    "createdBy": "Kevin Davis",
+    "createdAt": "2024-01-27T15:20:00Z"
+  },
+  {
+    "id": 12,
+    "contactId": 11,
+    "type": "Email",
+    "title": "Scholarship information sent",
+    "description": "Provided details about merit-based scholarship opportunities. Application deadline March 1st.",
+    "date": "2024-01-29",
+    "createdBy": "Patricia Wilson",
+    "createdAt": "2024-01-29T09:40:00Z"
+  },
+  {
+    "id": 13,
+    "contactId": 12,
+    "type": "Note",
+    "title": "Extracurricular update",
+    "description": "Student joined robotics team and debate club. Showing strong engagement in school activities.",
+    "date": "2024-01-15",
+    "createdBy": "Thomas Lee",
+    "createdAt": "2024-01-15T12:10:00Z"
+  },
+  {
+    "id": 14,
+    "contactId": 13,
+    "type": "Application Review",
+    "title": "Final application review",
+    "description": "Excellent application with strong essays and recommendations. Candidate for early admission consideration.",
+    "date": "2024-01-26",
+    "createdBy": "Nicole Martinez",
+    "createdAt": "2024-01-26T17:30:00Z"
+  },
+  {
+    "id": 15,
+    "contactId": 15,
+    "type": "Meeting",
+    "title": "Academic progress review",
+    "description": "Mid-year grades review. Student maintaining honor roll status with 3.9 GPA.",
+    "date": "2024-01-20",
+    "createdBy": "Brian Clark",
+    "createdAt": "2024-01-20T16:45:00Z"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "contactId": 1,
+    "stageId": 1,
+    "amount": 15000,
+    "probability": 25,
+    "expectedCloseDate": "2024-03-15",
+    "notes": "Strong interest in STEM program. Parent considering multiple schools.",
+    "createdAt": "2024-01-15T08:30:00Z",
+    "updatedAt": "2024-01-15T08:30:00Z"
+  },
+  {
+    "id": 2,
+    "contactId": 2,
+    "stageId": 5,
+    "amount": 18000,
+    "probability": 100,
+    "expectedCloseDate": "2023-08-20",
+    "notes": "Enrolled student in good standing. Currently in 11th grade.",
+    "createdAt": "2023-08-20T10:15:00Z",
+    "updatedAt": "2024-01-10T14:22:00Z"
+  },
+  {
+    "id": 3,
+    "contactId": 3,
+    "stageId": 2,
+    "amount": 16500,
+    "probability": 60,
+    "expectedCloseDate": "2024-04-01",
+    "notes": "Application in progress. Missing some documentation.",
+    "createdAt": "2024-01-20T11:45:00Z",
+    "updatedAt": "2024-01-25T16:30:00Z"
+  },
+  {
+    "id": 4,
+    "contactId": 4,
+    "stageId": 3,
+    "amount": 17200,
+    "probability": 80,
+    "expectedCloseDate": "2024-03-30",
+    "notes": "Strong application submitted. High probability of acceptance.",
+    "createdAt": "2024-01-12T09:20:00Z",
+    "updatedAt": "2024-01-28T13:45:00Z"
+  },
+  {
+    "id": 5,
+    "contactId": 5,
+    "stageId": 5,
+    "amount": 15800,
+    "probability": 100,
+    "expectedCloseDate": "2023-09-05",
+    "notes": "Current 9th grade student. Active in extracurricular activities.",
+    "createdAt": "2023-09-05T12:30:00Z",
+    "updatedAt": "2024-01-05T10:15:00Z"
+  },
+  {
+    "id": 6,
+    "contactId": 6,
+    "stageId": 4,
+    "amount": 16800,
+    "probability": 95,
+    "expectedCloseDate": "2024-05-15",
+    "notes": "Accepted for fall semester. Waiting on enrollment confirmation.",
+    "createdAt": "2024-01-18T15:10:00Z",
+    "updatedAt": "2024-01-30T11:20:00Z"
+  },
+  {
+    "id": 7,
+    "contactId": 8,
+    "stageId": 1,
+    "amount": 17500,
+    "probability": 30,
+    "expectedCloseDate": "2024-06-01",
+    "notes": "Recent inquiry. Family scheduling campus tour.",
+    "createdAt": "2024-02-01T10:45:00Z",
+    "updatedAt": "2024-02-01T10:45:00Z"
+  },
+  {
+    "id": 8,
+    "contactId": 9,
+    "stageId": 5,
+    "amount": 18500,
+    "probability": 100,
+    "expectedCloseDate": "2022-08-25",
+    "notes": "Current senior student. Excellent academic performance.",
+    "createdAt": "2022-08-25T13:15:00Z",
+    "updatedAt": "2024-01-22T09:40:00Z"
+  },
+  {
+    "id": 9,
+    "contactId": 10,
+    "stageId": 2,
+    "amount": 15500,
+    "probability": 50,
+    "expectedCloseDate": "2024-04-15",
+    "notes": "Application started. Family needs assistance with process.",
+    "createdAt": "2024-01-25T16:20:00Z",
+    "updatedAt": "2024-01-27T12:05:00Z"
+  },
+  {
+    "id": 10,
+    "contactId": 11,
+    "stageId": 4,
+    "amount": 16200,
+    "probability": 90,
+    "expectedCloseDate": "2024-05-30",
+    "notes": "Recently accepted. Considering scholarship options.",
+    "createdAt": "2024-01-19T14:35:00Z",
+    "updatedAt": "2024-01-29T10:50:00Z"
+  },
+  {
+    "id": 11,
+    "contactId": 12,
+    "stageId": 5,
+    "amount": 17800,
+    "probability": 100,
+    "expectedCloseDate": "2023-08-30",
+    "notes": "Current 11th grade student. Strong academic record.",
+    "createdAt": "2023-08-30T11:00:00Z",
+    "updatedAt": "2024-01-15T15:25:00Z"
+  },
+  {
+    "id": 12,
+    "contactId": 13,
+    "stageId": 3,
+    "amount": 18200,
+    "probability": 85,
+    "expectedCloseDate": "2024-03-20",
+    "notes": "Excellent application. High likelihood of acceptance.",
+    "createdAt": "2024-01-14T09:30:00Z",
+    "updatedAt": "2024-01-26T14:15:00Z"
+  },
+  {
+    "id": 13,
+    "contactId": 14,
+    "stageId": 1,
+    "amount": 15200,
+    "probability": 20,
+    "expectedCloseDate": "2024-07-01",
+    "notes": "Very recent inquiry. Early in the process.",
+    "createdAt": "2024-02-02T13:50:00Z",
+    "updatedAt": "2024-02-02T13:50:00Z"
+  },
+  {
+    "id": 14,
+    "contactId": 15,
+    "stageId": 5,
+    "amount": 16500,
+    "probability": 100,
+    "expectedCloseDate": "2023-09-10",
+    "notes": "Current 10th grade student. Honor roll performance.",
+    "createdAt": "2023-09-10T10:25:00Z",
+    "updatedAt": "2024-01-20T11:40:00Z"
+  }
+]
